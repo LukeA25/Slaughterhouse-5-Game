@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ForestScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/DresdenScene.unity
+    guid: c72b3463fe1c6c44daa7b91ac206d50e
+  - enabled: 1
+    path: Assets/Scenes/TralfamadorianScene.unity
+    guid: 4e80826f85922b143a3d2004f862b27b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a245ad046c64a2d40821c60f83f79f8a,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d67d64ca0e5fe964daa64278b50e2336,
+      type: 2}
