@@ -11,4 +11,4 @@ This comes with a file named [EnglishProject.apk](/EnglishProject.apk), and this
 
 You can find out how to download SideQuest [here](https://github.com/SideQuestVR/SideQuest).
 
-> Note: SideQuest only works with the Oculus Quest, Oculus Quest 2, and OculusQuest 3. For the Oculus Rift or non-oculus headsets, different download methods must be used, and the APK file may not be compatible.
+> Note: SideQuest only works with the Oculus Quest, Oculus Quest 2, and Oculus Quest 3. For the Oculus Rift or non-oculus headsets, different download methods must be used, and the APK file may not be compatible.
